@@ -1,7 +1,4 @@
 # golang-service-docker
-Simple REST API containerized.
-
-# golang-service-docker
 
 Very simple Golang web service running in Docker.
 
